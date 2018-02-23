@@ -1,2 +1,2 @@
 # laravel-blog-rest
-Laravel 5.5 blog with REST API
+Laravel 5.4 blog with REST API
