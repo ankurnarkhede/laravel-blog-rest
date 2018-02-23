@@ -1,7 +1,5 @@
 # laravel-blog-rest
-Laravel 5.4 blog with REST API
-
-Example Laravel API
+**Laravel 5.4 blog with REST API**
 
 This is a sample project to show how you could write an API using Laravel 5.4
 
